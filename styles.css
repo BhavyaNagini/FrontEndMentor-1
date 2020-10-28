@@ -51,9 +51,8 @@ body{
     padding: 20px;
     width:15%;
     position: absolute;
-     margin-left: 560px;
+     right:425px;
     margin-right: 0px; 
-    float:right;
     height:263px;
     top:110px
 }
@@ -76,7 +75,7 @@ body{
     width:38%;
     position: absolute;
     margin-top: 10px;
-    margin-left: 255px;
+    right:425px;
     margin-right: 0px;
     top:420px;
     height:230px
